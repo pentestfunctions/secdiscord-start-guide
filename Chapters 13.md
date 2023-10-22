@@ -29,16 +29,16 @@ These are direct links to various educational platforms, forums, and YouTube cha
 - **Slaves/Botnets, RATs, Crypters, OSINT, Leaked Databases, Steganography, WiFi Hacking, Man in the Middle, Google Dorking, Bug Bounties, Blue/Red/Purple Teams, DDoS/DoS, CORS, SSRF, HTTP Methods, 403 Bypassing, Cloudflare Bypassing, DNS History, Subdomain Takeover, Phishing, Zero-day, CVE/CWE, PoC:** All of these topics can be studied through cybersecurity courses, tutorials, books, blogs, forums, and specific articles dedicated to each subject.
 
 Additional Learning Resources:
-https://book.hacktricks.xyz/
-https://gtfobins.github.io
-https://chat.openai.com/
-https://tryhackme.com/paths
-https://www.exploit-db.com/
+- https://book.hacktricks.xyz/
+- https://gtfobins.github.io
+- https://chat.openai.com/
+- https://tryhackme.com/paths
+- https://www.exploit-db.com/
 
 Youtube:
-https://www.youtube.com/@NullByteWHT
-https://www.youtube.com/@LiveOverflow
-https://www.youtube.com/@Seytonic
+- https://www.youtube.com/@NullByteWHT
+- https://www.youtube.com/@LiveOverflow
+- https://www.youtube.com/@Seytonic
 
 Yes images (pngs and jpg) files can contain secrets hidden inside them, including entire extra images or archive/zip/rar files.
 
