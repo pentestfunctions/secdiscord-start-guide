@@ -36,13 +36,13 @@ When it comes to virtualization, Virtualbox/Vmware - I personally prefer Hyper-V
 
 Keep in mind you may need to enable virtualization in your computers BIOS before virtual machines work on your system.
 
-https://www.vmware.com/products/workstation-pro/workstation-pro-evaluation.html
-https://www.virtualbox.org/
-https://www.kali.org/
+- https://www.vmware.com/products/workstation-pro/workstation-pro-evaluation.html
+- https://www.virtualbox.org/
+- https://www.kali.org/
 
 
 Making USBs:
-https://rufus.ie/en/
-https://sourceforge.net/projects/win32diskimager/
-https://unetbootin.github.io/
-https://etcher.balena.io/
+- https://rufus.ie/en/
+- https://sourceforge.net/projects/win32diskimager/
+- https://unetbootin.github.io/
+- https://etcher.balena.io/
