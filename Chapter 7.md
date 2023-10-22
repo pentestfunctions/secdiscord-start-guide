@@ -29,10 +29,12 @@ Enumerating subdomains is often the first step in understanding the structure of
 - **Subdomain Enumeration Cheat Sheet**
 https://pentester.land/blog/subdomains-enumeration-cheatsheet/
 
-- **Online platforms** like `Shodan`, `Censys`, and `SecurityTrails`.
-https://shodan.io/
-https://search.censys.io
-https://securitytrails.com/domain/example.com
+- **Online platforms** like -
+- `Shodan`, `Censys`, and `SecurityTrails`.
+- https://shodan.io/
+- https://search.censys.io
+- https://securitytrails.com/domain/example.com
+- 
 ### 2. **Virtual Hosts:**
 
 Virtual hosting allows one server to host multiple domains (or sub-domains) with different public directories, SSL certificates and more, all sharing the same IP address.
